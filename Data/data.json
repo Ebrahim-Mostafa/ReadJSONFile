@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "web",
+    "url": "https://www.jumia.com.eg/",
+    "browser": "chrome",
+    "APPIUM_VERSION": "1.15.1",
+    "PLATFORM_VERSION": "7.0",
+    "PLATFORM_NAME": "Android",
+    "AUTOMATION_NAME": "UiAutomator2",
+    "DEVICE_NAME": "520059bcfe4d5451",
+    "udid": "",
+    "appActivity": "com.mobile.view.SplashScreenActivity",
+    "appPackage": "com.jumia.android",
+    "bundleId": "",
+    "host": "http://0.0.0.0:4723/wd/hub"
+  },
+  {
+    "platform": "web",
+    "url": "https://www.jumia.com.eg/",
+    "browser": "firefox",
+    "APPIUM_VERSION": "1.15.1",
+    "PLATFORM_VERSION": "7.0",
+    "PLATFORM_NAME": "Android",
+    "AUTOMATION_NAME": "UiAutomator2",
+    "DEVICE_NAME": "520059bcfe4d5451",
+    "udid": "",
+    "appActivity": "com.mobile.view.SplashScreenActivity",
+    "appPackage": "com.jumia.android",
+    "bundleId": "",
+    "host": "http://0.0.0.0:4723/wd/hub"
+  }
+]
